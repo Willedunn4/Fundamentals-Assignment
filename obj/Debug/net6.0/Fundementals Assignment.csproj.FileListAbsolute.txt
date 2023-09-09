@@ -1,0 +1,15 @@
+C:\Users\wille\source\repos\Fundementals Assignment\bin\Debug\net6.0\Fundementals Assignment.exe
+C:\Users\wille\source\repos\Fundementals Assignment\bin\Debug\net6.0\Fundementals Assignment.deps.json
+C:\Users\wille\source\repos\Fundementals Assignment\bin\Debug\net6.0\Fundementals Assignment.runtimeconfig.json
+C:\Users\wille\source\repos\Fundementals Assignment\bin\Debug\net6.0\Fundementals Assignment.dll
+C:\Users\wille\source\repos\Fundementals Assignment\bin\Debug\net6.0\Fundementals Assignment.pdb
+C:\Users\wille\source\repos\Fundementals Assignment\obj\Debug\net6.0\Fundementals Assignment.csproj.AssemblyReference.cache
+C:\Users\wille\source\repos\Fundementals Assignment\obj\Debug\net6.0\Fundementals Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\Fundementals Assignment\obj\Debug\net6.0\Fundementals Assignment.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\Fundementals Assignment\obj\Debug\net6.0\Fundementals Assignment.AssemblyInfo.cs
+C:\Users\wille\source\repos\Fundementals Assignment\obj\Debug\net6.0\Fundementals Assignment.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\Fundementals Assignment\obj\Debug\net6.0\Fundementals Assignment.dll
+C:\Users\wille\source\repos\Fundementals Assignment\obj\Debug\net6.0\refint\Fundementals Assignment.dll
+C:\Users\wille\source\repos\Fundementals Assignment\obj\Debug\net6.0\Fundementals Assignment.pdb
+C:\Users\wille\source\repos\Fundementals Assignment\obj\Debug\net6.0\Fundementals Assignment.genruntimeconfig.cache
+C:\Users\wille\source\repos\Fundementals Assignment\obj\Debug\net6.0\ref\Fundementals Assignment.dll
